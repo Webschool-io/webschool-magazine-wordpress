@@ -1,2 +1,2 @@
 # webschool-magazine-wordpress
-A revista dedicada ao PHP.
+A revista dedicada ao WordPress.
