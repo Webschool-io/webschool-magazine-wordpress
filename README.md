@@ -1,2 +1,2 @@
-# webschool-magazine-wordpress
+# Webschoo Magazine - WordPress
 A revista dedicada ao WordPress.
